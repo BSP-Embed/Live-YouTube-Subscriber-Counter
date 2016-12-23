@@ -1,0 +1,12 @@
+Create YouTube API Key Here
+https://console.developers.google.com
+
+Arduino YouTube Library
+https://github.com/witnessmenow/arduino-youtube-api
+
+Arduino JSON Library
+https://github.com/bblanchon/ArduinoJson
+
+Verify your API key here
+https://www.googleapis.com/youtube/v3/channels?part=statistics&id=UCZpgTN2ZoU7c4iWRQmk2bTg&key=PutYourNewlyGeneratedKeyHere
+
